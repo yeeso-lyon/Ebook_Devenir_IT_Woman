@@ -1,0 +1,18 @@
+[book]
+title = "Devenir une IT Woman"
+authors = ["Houleymatou Baldé","Kevin Delfour"]
+description = "« Devenir une IT Woman » est un guide pratique pour les femmes souhaitant embrasser une carrière dans les technologies de l'information. Ce livre propose des conseils, témoignages et ressources pour accompagner les lectrices à chaque étape de leur parcours IT. "
+language = "fr"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
